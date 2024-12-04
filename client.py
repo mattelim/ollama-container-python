@@ -12,7 +12,7 @@ model = "llama3.2"  # TODO: update this for whatever model you wish to use
 # llama3.1:latest           
 # llama3:latest   
 
-available_models = ["llama3.2", "codellama", "qwen2.5-coder", "llama3.2-vision"]      
+available_models = ["llama3.2", "codellama", "qwen2.5-coder:7b", "qwen2.5-coder:32b", "llama3.2-vision"]      
 
 IS_DEBUG = False
 
