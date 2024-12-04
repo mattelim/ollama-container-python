@@ -25,7 +25,7 @@ python server.py
 In a separate terminal:
 
 ```bash
-curl http://localhost:5000/chat \
+curl http://localhost:5001/chat \
 -H "Content-Type: application/json" \
 -H "Authorization: Bearer YOUR_API_KEY" \
 -d '{
